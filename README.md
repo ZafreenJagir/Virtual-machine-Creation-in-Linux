@@ -41,12 +41,12 @@ cat /etc/hostname
 
 ## OUTPUT
 
+![Screenshot 2024-11-17 122621](https://github.com/user-attachments/assets/caa4a83a-aaaf-42b5-bdf5-aa193019e6ee)
 
  
  
 ## RESULT
- 
-
+ Virtualbox / VMware Workstation with different flavours of linux is successfully installed.
   
 
 
